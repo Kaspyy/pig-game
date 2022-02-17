@@ -1,6 +1,6 @@
 # Pig game
 
-Simple JavaScript 2-player game with graphical user interface, in which player's task is to reach the score 100 points before his opponent.
+Simple JavaScript game designed for 2 players with graphical user interface, in which player's task is to reach the score 100 points before his opponent.
 
 ## Tech Stack
 
